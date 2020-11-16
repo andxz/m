@@ -1,0 +1,14 @@
+.top_field {
+    background-color: #131b48;
+    color: #fff;
+    min-height: 300px;
+    max-height: 600px;
+}
+
+.headline-img{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
